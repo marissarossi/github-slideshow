@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I now know how to highlight code in blocks. ''' see?! '''
 Use the left arrow to go back!
